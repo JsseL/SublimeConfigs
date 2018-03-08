@@ -1,0 +1,88 @@
+{
+	"binary_file_patterns":
+	[
+		"**/.git/*",
+		"**/coverage/*",
+		"**/node_modules/*",
+		"**/venv/*",
+		"*.dds",
+		"*.eml",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.JPG",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.woff",
+		"*.zip",
+		"*.svg",
+		"dumps/**",
+		"**/bundle.js",
+		"**/var/static/**",
+		"**/static/libs/**",
+		"*.min.js",
+		"*.min.*.js",
+		"*.js.map",
+		"*.css.map",
+		"**/app/dist/docs/*.html"
+	],
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"dpi_scale": 1.1,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 9,
+	"fonts_list":
+	[
+		"Andale Mono",
+		"Consolas",
+		"Courier",
+		"Courier New",
+		"Envy Code R",
+		"Lucida Console",
+		"Monospace",
+		"Inconsolata",
+		"Ubuntu Mono"
+	],
+	"ignore_inodes": true,
+	"ignored_packages":
+	[
+		"django-tags",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_yellow": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": false,
+	"phoenix_tabs_auto_width": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_line_endings": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
+}

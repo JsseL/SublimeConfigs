@@ -1,0 +1,12 @@
+[
+	{ "keys": ["ctrl+'"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+."], "command": "django_tag" },
+    // Bind super calc with additional ctrl
+    { "keys": ["ctrl+alt+c"], "command": "super_calculator"},
+    // Fix broken case toggle in search
+    { "keys": ["alt+c"], "command": "toggle_case_sensitive", "context":
+		[
+			{ "key": "setting.is_widget", "operator": "equal", "operand": true }
+		]
+	},
+]

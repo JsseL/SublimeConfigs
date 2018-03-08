@@ -1,0 +1,5 @@
+{
+    // A list of folders containing *.sublime-project files, e.g.,
+    // "projects_path": ["path/to/custom/Projects", "another_path/to/Projects"]
+    "projects_path":["~/projects/sublime_projects"],
+}

@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Case Conversion",
+		"Djaneiro",
+		"Django Tags",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"FontCycler",
+		"Git",
+		"Git Config",
+		"Hyperion for gettext",
+		"Indent XML",
+		"Jinja2",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Pretty JSON",
+		"Python 3",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-pycodestyle",
+		"Super Calculator",
+		"Text Pastry",
+		"Theme - Phoenix",
+		"TodoReview",
+		"TrailingSpaces",
+		"Virtualenv",
+		"Zeal"
+	]
+}
